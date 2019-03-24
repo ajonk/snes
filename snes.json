@@ -1,0 +1,59 @@
+{
+  "menu": [
+    {
+      "judul": "Emulator 1",
+      "gambar": "https://2.bp.blogspot.com/-rDQep4tyg90/XJdOxjTmpDI/AAAAAAAAASQ/A0_dMWcT3Uo3FFCFIOKoWjll0L-FQ51EwCEwYBhgL/s1600/Screenshot_256.png",
+      "url": "https://www.britishfamous.club/2019/03/emulator-1.html"
+    }
+    {
+      "judul": "Emulator 2",
+      "gambar": "https://2.bp.blogspot.com/-rDQep4tyg90/XJdOxjTmpDI/AAAAAAAAASQ/A0_dMWcT3Uo3FFCFIOKoWjll0L-FQ51EwCEwYBhgL/s1600/Screenshot_256.png",
+      "url": "https://www.britishfamous.club/2019/03/emulator-2.html"
+    }
+	{
+      "judul": "Dragon Quest III",
+      "gambar": "https://2.bp.blogspot.com/-rDQep4tyg90/XJdOxjTmpDI/AAAAAAAAASQ/A0_dMWcT3Uo3FFCFIOKoWjll0L-FQ51EwCEwYBhgL/s1600/Screenshot_256.png",
+      "url": "https://www.britishfamous.club/2019/03/dragon-quest-iii.html"
+    }
+	  {
+      "judul": "Dragon Quest I and II",
+      "gambar": "https://2.bp.blogspot.com/-rDQep4tyg90/XJdOxjTmpDI/AAAAAAAAASQ/A0_dMWcT3Uo3FFCFIOKoWjll0L-FQ51EwCEwYBhgL/s1600/Screenshot_256.png",
+      "url": "https://www.britishfamous.club/2019/03/dragon-quest-i-and-ii.html"
+    }
+	  {
+      "judul": "Dragon Ball Z: Legend of the Saiyans",
+      "gambar": "https://2.bp.blogspot.com/-rDQep4tyg90/XJdOxjTmpDI/AAAAAAAAASQ/A0_dMWcT3Uo3FFCFIOKoWjll0L-FQ51EwCEwYBhgL/s1600/Screenshot_256.png",
+      "url": "https://www.britishfamous.club/2019/03/dragon-ball-z-legend-of-saiyans.html"
+    }
+	    {
+      "judul": "Dragon Quest VI",
+      "gambar": "https://2.bp.blogspot.com/-rDQep4tyg90/XJdOxjTmpDI/AAAAAAAAASQ/A0_dMWcT3Uo3FFCFIOKoWjll0L-FQ51EwCEwYBhgL/s1600/Screenshot_256.png",
+      "url": "https://www.britishfamous.club/2019/03/dragon-quest-vi.html"
+    }
+    {
+      "judul": "Final Fantasy III",
+      "gambar": "https://2.bp.blogspot.com/-rDQep4tyg90/XJdOxjTmpDI/AAAAAAAAASQ/A0_dMWcT3Uo3FFCFIOKoWjll0L-FQ51EwCEwYBhgL/s1600/Screenshot_256.png",
+      "url": "https://www.britishfamous.club/2019/03/final-fantasy-iii.html"
+    }
+	  {
+      "judul": "Super Robot Taisen EX",
+      "gambar": "https://2.bp.blogspot.com/-rDQep4tyg90/XJdOxjTmpDI/AAAAAAAAASQ/A0_dMWcT3Uo3FFCFIOKoWjll0L-FQ51EwCEwYBhgL/s1600/Screenshot_256.png",
+      "url": "https://www.britishfamous.club/2019/03/super-robot-taisen-ex.html"
+    }
+	  {
+      "judul": "The Legend of Zelda Parallel Worlds",
+      "gambar": "https://2.bp.blogspot.com/-rDQep4tyg90/XJdOxjTmpDI/AAAAAAAAASQ/A0_dMWcT3Uo3FFCFIOKoWjll0L-FQ51EwCEwYBhgL/s1600/Screenshot_256.png",
+      "url": "https://www.britishfamous.club/2019/03/the-legend-of-zelda-parallel-worlds.html"
+    }
+	  {
+      "judul": "Super Metroid",
+      "gambar": "https://2.bp.blogspot.com/-rDQep4tyg90/XJdOxjTmpDI/AAAAAAAAASQ/A0_dMWcT3Uo3FFCFIOKoWjll0L-FQ51EwCEwYBhgL/s1600/Screenshot_256.png",
+      "url": "https://www.britishfamous.club/2019/03/super-metroid.html"
+    }
+	{
+      "judul": "More Games",
+      "gambar": "https://2.bp.blogspot.com/-rDQep4tyg90/XJdOxjTmpDI/AAAAAAAAASQ/A0_dMWcT3Uo3FFCFIOKoWjll0L-FQ51EwCEwYBhgL/s1600/Screenshot_256.png",
+      "url": "https://www.britishfamous.club/search/label/SNES?&max-results=8"
+    }
+  ]
+}
